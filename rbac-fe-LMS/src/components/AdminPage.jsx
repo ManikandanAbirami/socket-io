@@ -2,7 +2,7 @@ import React from 'react'
 
 function AdminPage() {
     return (
-        <div>AdminPage</div>
+        <div>AdminPage - Manage Books and Users</div>
     )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 function ViewerPage() {
     return (
-        <div>ViewerPage</div>
+        <div>ViewerPage - View books</div>
     )
 }
 

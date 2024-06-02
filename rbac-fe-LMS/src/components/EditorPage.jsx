@@ -2,7 +2,7 @@ import React from 'react'
 
 function EditorPage() {
     return (
-        <div>EditorPage</div>
+        <div>EditorPage - Add and edit books</div>
     )
 }
 
